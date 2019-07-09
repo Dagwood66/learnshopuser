@@ -1,16 +1,16 @@
 <template>
-  <div class="home">
-
-  </div>
+    <div class="home">
+        首页
+    </div>
 </template>
 
 <script>
-import HelloWorld from '@/components/HelloWorld.vue'
+    import HelloWorld from '@/components/HelloWorld.vue'
 
-export default {
-  name: 'home',
-  components: {
-    HelloWorld
-  }
-}
+    export default {
+        name: 'home',
+        components: {
+            HelloWorld
+        }
+    }
 </script>

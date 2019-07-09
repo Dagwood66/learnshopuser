@@ -1,0 +1,11 @@
+.el-menu {
+  border-right-width: 0;
+}
+
+.el-scrollbar {
+  height: 100%;
+
+  .el-scrollbar__wrap {
+    overflow-x: hidden !important;
+  }
+}

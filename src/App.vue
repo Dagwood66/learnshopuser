@@ -6,5 +6,6 @@
 </template>
 
 <style lang="scss">
-
+    @import "./styles/index";
+    @import "./styles/element-ui";
 </style>
